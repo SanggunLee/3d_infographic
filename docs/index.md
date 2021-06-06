@@ -1,7 +1,7 @@
 ## 정리 공간
 
 
-[ Muzero 정리 ](https://github.com/SanggunLee/3d_infographic/blob/main/docs/Muzero/Muzero.md) 
+[ Muzero 정리 ](https://github.com/SanggunLee/3d_infographic/blob/main/docs/Muzero/Muzero.html) 
 
 
 
